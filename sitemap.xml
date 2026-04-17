@@ -542,12 +542,24 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/ingredientes/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://papayacleanse.pe/ingredientes/canela/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/ingredientes/jengibre/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/ingredientes/linaza/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -578,7 +590,7 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -597,6 +609,30 @@
   <url>
     <loc>https://papayacleanse.pe/condiciones/colon-irritable/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/diarrea/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/dispepsia/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/diverticulitis-prevencion/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/dolor-abdominal/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -637,6 +673,24 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.pe/condiciones/inflamacion-intestinal/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/intestino-permeable/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/intolerancia-alimentos/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.pe/condiciones/mal-aliento/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
@@ -645,6 +699,12 @@
   <url>
     <loc>https://papayacleanse.pe/condiciones/mala-digestion/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/nauseas-cronicas/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -667,21 +727,15 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://papayacleanse.pe/condiciones/ulcera-gastrica/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <loc>https://papayacleanse.pe/condiciones/sobrepeso-digestivo/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://papayacleanse.pe/ingredientes/jengibre/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <loc>https://papayacleanse.pe/condiciones/ulcera-gastrica/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://papayacleanse.pe/ingredientes/linaza/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
