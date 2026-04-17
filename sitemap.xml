@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://papayacleanse.pe/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -602,7 +602,13 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/acidez-estomacal/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/aerofagia/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -613,14 +619,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.pe/condiciones/colitis-ulcerosa/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.pe/condiciones/colitis/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/colon-irritable/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -638,6 +650,12 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/digestion-lenta/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/disbiosis-intestinal/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -667,6 +685,30 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.pe/condiciones/enfermedad-celiaca/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/enfermedad-crohn/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/esofagitis-eosinofilica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/esteatosis-hepatica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.pe/condiciones/estomago-inflamado/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -674,7 +716,7 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/estrenimiento/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -686,13 +728,13 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/flora-intestinal/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/gases-intestinales/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -703,20 +745,38 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.pe/condiciones/gastritis-nerviosa/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/gastritis-por-medicamentos/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.pe/condiciones/gastritis/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/gastroparesia/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/helicobacter-pylori/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/hinchazon-abdominal/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -745,6 +805,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://papayacleanse.pe/condiciones/intolerancia-lactosa/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://papayacleanse.pe/condiciones/limpieza-intestinal/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -752,13 +818,19 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/mal-aliento/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/mala-digestion/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/meteorismo/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -770,7 +842,7 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/nauseas/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -782,13 +854,19 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/parasitos-intestinales/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://papayacleanse.pe/condiciones/proctitis/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/reflujo-gastrico/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -812,7 +890,7 @@
   </url>
   <url>
     <loc>https://papayacleanse.pe/condiciones/ulcera-gastrica/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
