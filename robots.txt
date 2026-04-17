@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.papayacleanse.pe/sitemap.xml
+Sitemap: https://papayacleanse.pe/sitemap.xml
